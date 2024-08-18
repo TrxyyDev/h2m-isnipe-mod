@@ -1,6 +1,6 @@
 # iSnipe Script for H2M-Mod (MW2R)
 
-Simple overview of use/purpose.
+This script allow to use all weapons, bu only snipers will do damage !
 
 ### Installing
 
