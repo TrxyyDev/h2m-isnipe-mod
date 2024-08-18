@@ -8,10 +8,7 @@ Simple overview of use/purpose.
 * Put the script in "Call of Duty Modern Warfare Remastered\h2m-mod\scripts\mp"
 * Launch your dedicated server and that's all
 
-
 ## Authors
-
-Contributors names and contact info
 
 Trxyy
 [YouTube](https://www.youtube.com/Trxyy)
