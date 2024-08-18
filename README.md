@@ -2,6 +2,8 @@
 
 This script allow to use all weapons, bu only snipers will do damage !
 
+DON'T FORGET TO ADD TO FAVORITE !
+
 ### Installing
 
 * Download the isnipe.gsc script
